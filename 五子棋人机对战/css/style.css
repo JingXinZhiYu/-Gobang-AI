@@ -1,0 +1,21 @@
+canvas {
+	display: block;
+	margin : 50px auto;
+	box-shadow: -2px -2px 2px #EFEFEF , 5px 5px 5px #B9B9B9 ;
+}
+
+.regret {
+	width: 75px;
+	height: 50px;
+	position: absolute;
+	top: 50%;
+	left: 27%;
+}
+
+.reset {
+	width: 75px;
+	height: 50px;
+	position: absolute;
+	top: 42%;
+	left: 27%;
+}
